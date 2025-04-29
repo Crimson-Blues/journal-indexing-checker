@@ -16,7 +16,7 @@ CELDA DE PREPARACIÓN: (**EJECUTAR UNA SOLA VEZ**)
 1.1 Asegúrate de otorgar los permisos requeridos para el acceso de _Google Drive_
 
 Para mayor información sobre el procedimiento revisa la guía de usuario:
-https://docs.google.com/document/d/1NztBmYq8W50E8XQzrfxzW2laeFVjblcudVFQ0-x60_4/edit?usp=sharing
+https://docs.google.com/document/d/13xuEsGxLLaxRKaCh0xqEwdMVgZbr_86JJ_Zv-i2WCdY/edit?usp=sharing
 """
 
 #Install libraries

@@ -6,3 +6,6 @@ Automated journal indexing checker:
 4. Organizes information in a Pandas Dataframe and writes it onto a new sheet in the original Excel file.
 
 Meant to be run in a Google Colab environment for ease of usage and distribution inside an academic institution.
+Requires users to own a Scopus and WOS API key.
+
+*The Master Journal List from WOS must be updated manually by downloading the .csv files.
